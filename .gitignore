@@ -17,6 +17,8 @@
 .env
 
 # misc
+.prisma
+/prisma/*.db
 .DS_Store
 *.pem
 
